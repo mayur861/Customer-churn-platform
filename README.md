@@ -464,12 +464,6 @@ The platform demonstrates how machine learning can support customer retention by
 
 The potential business impact depends on model performance, retention campaign effectiveness, and operational implementation.
 
-## Future Improvements
 
-* Data drift and prediction monitoring.
-* Additional automated tests and input validation.
-* Docker-based deployment.
-* Cloud deployment and production logging.
-* Monitoring retention campaign outcomes.
 
 
